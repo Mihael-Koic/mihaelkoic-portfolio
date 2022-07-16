@@ -1,0 +1,66 @@
+html{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    border-top: 3px solid #ff0000;
+    box-sizing: border-box;
+}
+
+.image1, a{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    color: #333;
+    text-decoration:none;
+    color: #333;
+}
+
+.aboutme-m, .image-m{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #333;
+    margin-top: 50px;
+}
+
+.image-m {
+    border-radius: 80px;
+    border: 3px solid black;
+}
+
+.hej-blue{
+    color: #133956;
+}
+
+.button {
+    display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #000dff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px rgb(49, 49, 49);
+}
+
+.button:hover {
+    background-color: #000dff
+}
+
+.button:active {
+  background-color: #000dff;
+  box-shadow: 0 5px rgb(37, 37, 37);
+  transform: translateY(4px);
+}
+
+.d-b-t {
+    color: white;
+}
