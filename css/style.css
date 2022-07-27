@@ -47,3 +47,15 @@ html{
 .social-icon:hover {
     color: #333;
 }
+
+.footer {
+    text-align: center;
+    overflow: hidden;
+    background-color: #333;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid #ff0000;
+}
