@@ -36,31 +36,14 @@ html{
     color: #133956;
 }
 
-.button {
-    display: inline-block;
-  padding: 15px 25px;
-  font-size: 24px;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  outline: none;
-  color: #fff;
-  background-color: #000dff;
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 9px rgb(49, 49, 49);
+.social-icon {
+    font-size: 60px;
+    color: #aaaa;
+    transition: color 0.2s;
+    text-decoration: none;
+    margin: 9px;
 }
 
-.button:hover {
-    background-color: #000dff
-}
-
-.button:active {
-  background-color: #000dff;
-  box-shadow: 0 5px rgb(37, 37, 37);
-  transform: translateY(4px);
-}
-
-.d-b-t {
-    color: white;
+.social-icon:hover {
+    color: #333;
 }
