@@ -1,4 +1,4 @@
-html{
+html {
     padding: 0;
     margin: 0;
     background-color: rgb(255, 255, 255);
@@ -6,8 +6,7 @@ html{
     box-sizing: border-box;
 }
 
-.image1, a{
-    display: block;
+.image1, a {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -18,7 +17,7 @@ html{
     color: #333;
 }
 
-.aboutme-m, .image-m{
+.aboutme-m, .image-m {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -40,7 +39,6 @@ html{
     font-size: 60px;
     color: #aaaa;
     transition: color 0.2s;
-    text-decoration: none;
     margin: 9px;
 }
 
@@ -49,6 +47,7 @@ html{
 }
 
 .footer {
+    padding: 900px;
     text-align: center;
     overflow: hidden;
     background-color: #333;
